@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C# Practice\\HelloSOLID\\HelloIsp\\HelloIsp.csproj",
+      "projectUniqueName": "d:\\Projects\\CSharpPractice\\HelloSOLID\\HelloIsp\\HelloIsp.csproj",
       "projectName": "HelloIsp",
-      "projectPath": "D:\\Projects\\C# Practice\\HelloSOLID\\HelloIsp\\HelloIsp.csproj",
+      "projectPath": "d:\\Projects\\CSharpPractice\\HelloSOLID\\HelloIsp\\HelloIsp.csproj",
       "packagesPath": "C:\\Users\\kangx\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C# Practice\\HelloSOLID\\HelloIsp\\obj\\",
+      "outputPath": "d:\\Projects\\CSharpPractice\\HelloSOLID\\HelloIsp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

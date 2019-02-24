@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C# Practice\\HelloEnum\\HelloEnum.csproj",
+      "projectUniqueName": "d:\\Projects\\CSharpPractice\\HelloEnum\\HelloEnum.csproj",
       "projectName": "HelloEnum",
-      "projectPath": "D:\\Projects\\C# Practice\\HelloEnum\\HelloEnum.csproj",
+      "projectPath": "d:\\Projects\\CSharpPractice\\HelloEnum\\HelloEnum.csproj",
       "packagesPath": "C:\\Users\\kangx\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C# Practice\\HelloEnum\\obj\\",
+      "outputPath": "d:\\Projects\\CSharpPractice\\HelloEnum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

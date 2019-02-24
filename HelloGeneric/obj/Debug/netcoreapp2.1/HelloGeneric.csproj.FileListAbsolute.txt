@@ -9,3 +9,14 @@ D:\Projects\C# Practice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.Assemb
 D:\Projects\C# Practice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.AssemblyInfo.cs
 D:\Projects\C# Practice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.dll
 D:\Projects\C# Practice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.pdb
+D:\Projects\CSharpPractice\HelloGeneric\bin\Debug\netcoreapp2.1\HelloGeneric.deps.json
+D:\Projects\CSharpPractice\HelloGeneric\bin\Debug\netcoreapp2.1\HelloGeneric.runtimeconfig.json
+D:\Projects\CSharpPractice\HelloGeneric\bin\Debug\netcoreapp2.1\HelloGeneric.runtimeconfig.dev.json
+D:\Projects\CSharpPractice\HelloGeneric\bin\Debug\netcoreapp2.1\HelloGeneric.dll
+D:\Projects\CSharpPractice\HelloGeneric\bin\Debug\netcoreapp2.1\HelloGeneric.pdb
+D:\Projects\CSharpPractice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.csprojAssemblyReference.cache
+D:\Projects\CSharpPractice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpPractice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.AssemblyInfoInputs.cache
+D:\Projects\CSharpPractice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.AssemblyInfo.cs
+D:\Projects\CSharpPractice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.dll
+D:\Projects\CSharpPractice\HelloGeneric\obj\Debug\netcoreapp2.1\HelloGeneric.pdb

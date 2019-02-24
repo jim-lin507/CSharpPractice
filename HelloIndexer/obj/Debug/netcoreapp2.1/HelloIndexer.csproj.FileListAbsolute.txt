@@ -1,0 +1,11 @@
+D:\Projects\CSharpPractice\HelloIndexer\bin\Debug\netcoreapp2.1\HelloIndexer.deps.json
+D:\Projects\CSharpPractice\HelloIndexer\bin\Debug\netcoreapp2.1\HelloIndexer.runtimeconfig.json
+D:\Projects\CSharpPractice\HelloIndexer\bin\Debug\netcoreapp2.1\HelloIndexer.runtimeconfig.dev.json
+D:\Projects\CSharpPractice\HelloIndexer\bin\Debug\netcoreapp2.1\HelloIndexer.dll
+D:\Projects\CSharpPractice\HelloIndexer\bin\Debug\netcoreapp2.1\HelloIndexer.pdb
+D:\Projects\CSharpPractice\HelloIndexer\obj\Debug\netcoreapp2.1\HelloIndexer.csprojAssemblyReference.cache
+D:\Projects\CSharpPractice\HelloIndexer\obj\Debug\netcoreapp2.1\HelloIndexer.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpPractice\HelloIndexer\obj\Debug\netcoreapp2.1\HelloIndexer.AssemblyInfoInputs.cache
+D:\Projects\CSharpPractice\HelloIndexer\obj\Debug\netcoreapp2.1\HelloIndexer.AssemblyInfo.cs
+D:\Projects\CSharpPractice\HelloIndexer\obj\Debug\netcoreapp2.1\HelloIndexer.dll
+D:\Projects\CSharpPractice\HelloIndexer\obj\Debug\netcoreapp2.1\HelloIndexer.pdb

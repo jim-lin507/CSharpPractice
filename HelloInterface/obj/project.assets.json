@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C# Practice\\HelloInterface\\HelloInterface.csproj",
+      "projectUniqueName": "d:\\Projects\\CSharpPractice\\HelloInterface\\HelloInterface.csproj",
       "projectName": "HelloInterface",
-      "projectPath": "D:\\Projects\\C# Practice\\HelloInterface\\HelloInterface.csproj",
+      "projectPath": "d:\\Projects\\CSharpPractice\\HelloInterface\\HelloInterface.csproj",
       "packagesPath": "C:\\Users\\kangx\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C# Practice\\HelloInterface\\obj\\",
+      "outputPath": "d:\\Projects\\CSharpPractice\\HelloInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

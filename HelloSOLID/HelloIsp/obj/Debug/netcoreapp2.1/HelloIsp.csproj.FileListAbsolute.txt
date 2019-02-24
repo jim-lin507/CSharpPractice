@@ -9,3 +9,14 @@ D:\Projects\C# Practice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.Ass
 D:\Projects\C# Practice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.AssemblyInfo.cs
 D:\Projects\C# Practice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.dll
 D:\Projects\C# Practice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.pdb
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\bin\Debug\netcoreapp2.1\HelloIsp.deps.json
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\bin\Debug\netcoreapp2.1\HelloIsp.runtimeconfig.json
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\bin\Debug\netcoreapp2.1\HelloIsp.runtimeconfig.dev.json
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\bin\Debug\netcoreapp2.1\HelloIsp.dll
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\bin\Debug\netcoreapp2.1\HelloIsp.pdb
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.csprojAssemblyReference.cache
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.AssemblyInfoInputs.cache
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.AssemblyInfo.cs
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.dll
+D:\Projects\CSharpPractice\HelloSOLID\HelloIsp\obj\Debug\netcoreapp2.1\HelloIsp.pdb

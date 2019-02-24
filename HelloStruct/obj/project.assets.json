@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C# Practice\\HelloStruct\\HelloStruct.csproj",
+      "projectUniqueName": "d:\\Projects\\CSharpPractice\\HelloStruct\\HelloStruct.csproj",
       "projectName": "HelloStruct",
-      "projectPath": "D:\\Projects\\C# Practice\\HelloStruct\\HelloStruct.csproj",
+      "projectPath": "d:\\Projects\\CSharpPractice\\HelloStruct\\HelloStruct.csproj",
       "packagesPath": "C:\\Users\\kangx\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C# Practice\\HelloStruct\\obj\\",
+      "outputPath": "d:\\Projects\\CSharpPractice\\HelloStruct\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C# Practice\\HelloAbstract\\HelloAbstract.csproj",
+      "projectUniqueName": "d:\\Projects\\CSharpPractice\\HelloAbstract\\HelloAbstract.csproj",
       "projectName": "HelloAbstract",
-      "projectPath": "D:\\Projects\\C# Practice\\HelloAbstract\\HelloAbstract.csproj",
+      "projectPath": "d:\\Projects\\CSharpPractice\\HelloAbstract\\HelloAbstract.csproj",
       "packagesPath": "C:\\Users\\kangx\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C# Practice\\HelloAbstract\\obj\\",
+      "outputPath": "d:\\Projects\\CSharpPractice\\HelloAbstract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
