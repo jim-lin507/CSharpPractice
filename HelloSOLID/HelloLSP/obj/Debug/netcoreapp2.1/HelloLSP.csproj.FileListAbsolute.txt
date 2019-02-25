@@ -1,0 +1,11 @@
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\bin\Debug\netcoreapp2.1\HelloLSP.deps.json
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\bin\Debug\netcoreapp2.1\HelloLSP.runtimeconfig.json
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\bin\Debug\netcoreapp2.1\HelloLSP.runtimeconfig.dev.json
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\bin\Debug\netcoreapp2.1\HelloLSP.dll
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\bin\Debug\netcoreapp2.1\HelloLSP.pdb
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\obj\Debug\netcoreapp2.1\HelloLSP.csprojAssemblyReference.cache
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\obj\Debug\netcoreapp2.1\HelloLSP.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\obj\Debug\netcoreapp2.1\HelloLSP.AssemblyInfoInputs.cache
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\obj\Debug\netcoreapp2.1\HelloLSP.AssemblyInfo.cs
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\obj\Debug\netcoreapp2.1\HelloLSP.dll
+D:\Projects\CSharpPractice\HelloSOLID\HelloLSP\obj\Debug\netcoreapp2.1\HelloLSP.pdb
