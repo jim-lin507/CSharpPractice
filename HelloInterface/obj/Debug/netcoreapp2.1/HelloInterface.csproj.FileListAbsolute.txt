@@ -9,3 +9,14 @@ D:\Projects\C# Practice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.As
 D:\Projects\C# Practice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.AssemblyInfo.cs
 D:\Projects\C# Practice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.dll
 D:\Projects\C# Practice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.pdb
+D:\Projects\CSharpPractice\HelloInterface\bin\Debug\netcoreapp2.1\HelloInterface.deps.json
+D:\Projects\CSharpPractice\HelloInterface\bin\Debug\netcoreapp2.1\HelloInterface.runtimeconfig.json
+D:\Projects\CSharpPractice\HelloInterface\bin\Debug\netcoreapp2.1\HelloInterface.runtimeconfig.dev.json
+D:\Projects\CSharpPractice\HelloInterface\bin\Debug\netcoreapp2.1\HelloInterface.dll
+D:\Projects\CSharpPractice\HelloInterface\bin\Debug\netcoreapp2.1\HelloInterface.pdb
+D:\Projects\CSharpPractice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.csprojAssemblyReference.cache
+D:\Projects\CSharpPractice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpPractice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.AssemblyInfoInputs.cache
+D:\Projects\CSharpPractice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.AssemblyInfo.cs
+D:\Projects\CSharpPractice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.dll
+D:\Projects\CSharpPractice\HelloInterface\obj\Debug\netcoreapp2.1\HelloInterface.pdb

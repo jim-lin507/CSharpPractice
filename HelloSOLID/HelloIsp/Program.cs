@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloIsp
+namespace HelloISP
 {
     class Program
     {
